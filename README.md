@@ -6,7 +6,7 @@
 ![Status](https://img.shields.io/badge/Status-Archived-success?style=for-the-badge)
 [![Telegram](https://img.shields.io/badge/Join_Us_On-Telegram-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/portromdipperpoco))
 
-*The ultimate consolidated repository for all custom ROMs, GSIs, and firmware ports created by the Android Ports Telegram Community.*
+*The ultimate consolidated repository for all custom ROMs, GSIs, and firmware ports created by the Android Ports Telegram Community For Poco F1 and Mi 8 *
 
 </div>
 
