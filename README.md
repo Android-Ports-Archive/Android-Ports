@@ -40,8 +40,8 @@ Click on **"View Post"** to see the full release notes, screenshots, bugs, and d
 | **HyperOS Mi Pad Edition** | A13 | POCO | @s_AngelGR & @y3wad | [View Post](HyperOS%20HYPER%20OS%20MI%20PAD%20EDITION/Readme.md) |
 | **MIUI 14** | Android 13 | `dipper` / `beryllium` | @AngelGR | [View Post](MIUI%2014%20v4/Readme.md) |
 | **MIUI 14** | Android 13 | `dipper` / `beryllium` | Android Ports Team | [View Post](MIUI%2014/Readme.md) |
-| **MindEdition MIUI 13 (v4.1)** | Android 12 (S) | `dipper` | @I3lambda | [View Post](MindEdition/dipper/Readme.md) |
-| **MindEdition MIUI 13 (v4.1)** | Android 12 (S) | POCO | @I3lambda | [View Post](MIUI%20Mind/Readme.md) |
+| **MindEdition MIUI 13 (v4.1)** | Android 12 (S) | `dipper` | @I3lambda | [View Post](MIUI%20Mind/Dipper/Dipper.md) |
+| **MindEdition MIUI 13 (v4.1)** | Android 12 (S) | POCO | @I3lambda | [View Post](MIUI%20Mind/Beryllium/beryllium.md) |
 
 ### 🚀 Custom OEM Skins (Flyme, Nothing, Nubia)
 | ROM Name | Android Base | Device(s) | Porter / Maintainer | Link |
