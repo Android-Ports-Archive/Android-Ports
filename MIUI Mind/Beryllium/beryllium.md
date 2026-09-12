@@ -24,14 +24,6 @@
 | **Port Source** | Ported from `sweet` |
 | **Updated Date** | 02/04/2023 |
 
-## 📸 Screenshots
-<div align="center">
-  <img src="screenshots/home.png" width="24%" />
-  <img src="screenshots/settings.png" width="24%" />
-  <img src="screenshots/quicksettings.png" width="24%" />
-  <img src="screenshots/about.png" width="24%" />
-</div>
-
 ---
 
 ## 📝 Changelog
