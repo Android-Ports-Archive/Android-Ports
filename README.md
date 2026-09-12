@@ -4,7 +4,7 @@
 
 ![Devices](https://img.shields.io/badge/Supported_Devices-POCO_F1%20%7C%20Mi_8-333333?style=for-the-badge&logo=xiaomi)
 ![Status](https://img.shields.io/badge/Status-Archived-success?style=for-the-badge)
-[![Telegram](https://img.shields.io/badge/Join_Us_On-Telegram-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/[YourTelegramGroupLinkHere](https://t.me/portromdipperpoco))
+[![Telegram](https://img.shields.io/badge/Join_Us_On-Telegram-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/portromdipperpoco))
 
 *The ultimate consolidated repository for all custom ROMs, GSIs, and firmware ports created by the Android Ports Telegram Community.*
 
