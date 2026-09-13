@@ -65,8 +65,8 @@ Click on **"View Post"** to see the full release notes, screenshots, bugs, and d
 
 ## 👏 Hall of Fame / Credits
 This archive wouldn't be possible without the incredible dedication of the Android Ports community. Massive thanks to:
-* **Porters & Devs:** @I3lambda, @s_AngelGR, @johnv2161, @ZC_J1an9
-* **Testers & Friends:** @y3wad, @gabysOhh, @J4s0nGuev, @vendor_vachupa, @E1rhan, @elissagz, @Danish_raza, @Abhijay27, @bongtoitroiday1, @Jliits, @CarlosDev122
+* **Porters & Devs:** @y3wad,@I3lambda, @s_AngelGR, @johnv2161, @ZC_J1an9
+* **Testers & Friends:** @gabysOhh, @J4s0nGuev, @vendor_vachupa, @E1rhan, @elissagz, @Danish_raza, @Abhijay27, @bongtoitroiday1, @Jliits, @CarlosDev122
 
 <div align="center">
   <i>"May God watch over you all. All glory goes to God."</i>
